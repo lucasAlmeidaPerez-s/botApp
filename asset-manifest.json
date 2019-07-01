@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/botApp/static/css/main.062ac592.chunk.css",
+    "main.js": "/botApp/static/js/main.bbd179b8.chunk.js",
+    "main.js.map": "/botApp/static/js/main.bbd179b8.chunk.js.map",
+    "runtime~main.js": "/botApp/static/js/runtime~main.2727109a.js",
+    "runtime~main.js.map": "/botApp/static/js/runtime~main.2727109a.js.map",
+    "static/js/2.8191f02f.chunk.js": "/botApp/static/js/2.8191f02f.chunk.js",
+    "static/js/2.8191f02f.chunk.js.map": "/botApp/static/js/2.8191f02f.chunk.js.map",
+    "index.html": "/botApp/index.html",
+    "precache-manifest.0a7b9b058bbc4bab5542b02d1d80b649.js": "/botApp/precache-manifest.0a7b9b058bbc4bab5542b02d1d80b649.js",
+    "service-worker.js": "/botApp/service-worker.js",
+    "static/css/main.062ac592.chunk.css.map": "/botApp/static/css/main.062ac592.chunk.css.map"
+  }
+}
